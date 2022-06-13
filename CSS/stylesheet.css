@@ -1,0 +1,49 @@
+
+body {
+    background-color: orangered;
+}
+/* nav bar */
+
+#nav_bar {
+    background-color: black;
+}
+
+.nav_links {
+    padding: 30px;
+    color:orange;
+    list-style-type: none;
+   
+    
+}
+
+.nav_links:hover {
+    color:teal;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+
+a:visited { 
+    text-decoration: none;
+    color:orange;
+}
+
+/* nav ul li {
+    text-decoration: none;
+} */
+
+h1 {
+ color: white;
+ font-size: 40px;
+
+}
+
+#Orange {
+    color: white;
+    margin:  20px 0;
+    font-size: 40px;
+    font-weight: bold;
+}
